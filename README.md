@@ -3,7 +3,7 @@
 This is my personal portfolio website built using HTML and CSS. It showcases my projects, skills, and contact information. Created during my Certificate in Information Technology (CIT) course.
 
 ## 🔗 Live Demo
-[Click here to view the website](https://an06565.github.io/portfolio)
+[Click here to view the website](https://github.com/anok0695-alt/portfolio)
 
 ## 🛠️ Technologies Used
 - HTML
